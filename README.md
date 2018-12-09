@@ -1,6 +1,8 @@
 # XCI-to-Split-NSP
 tl;dr: Useful for those with FAT32 SD cards. Install XCI files larger than 4GB on Switch.
 
+Download here if you have trouble navigating GitHub: https://github.com/NuVanDibe/XCI-to-Split-NSP/releases/
+
 Sometimes software is only available in .xci format. Many people are saying to just copy that to a Micro SD card and use existing tools to convert it to NSP and install it on the fly. This is great and useful, but if the Micro SD card is formatted as FAT32, and the .xci file is larger than 4GiB, it becomes a much more complicated matter.
 
 FAT32 has a maximum file size of 4GiB, so either only the first part of the file will be copied, or the operating system will complain about the file being too large for the destination file system.
