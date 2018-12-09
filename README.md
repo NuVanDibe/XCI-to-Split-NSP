@@ -16,6 +16,9 @@ Then, just drag your .xci file onto ConvertAndSplit.bat, and wait.
 
 # Prerequisites
 Don't forget, you need Python3, 4NXCI and splitNSP. Get them from their repositories here:
+
 https://www.python.org/downloads/windows/
+
 https://github.com/The-4n/4NXCI
+
 https://github.com/AnalogMan151/splitNSP
