@@ -7,7 +7,7 @@ FAT32 has a maximum file size of 4GiB, so either only the first part of the file
 
 The solution would be to first convert the file from XCI to NSP, and then split that NSP into 4GiB chunks which can fit on the Micro SD card. Then, set the Archive attribute on the folder and files so that NSP install tools can read the converted software and install it.
 
-This script uses The-4n's 4NXCI and AnalogMan151's splitNSP to get the job done in one drag-and-drop operation.
+This script uses The-4n's 4NXCI (based on SciresM's hactool) and AnalogMan151's splitNSP to get the job done in one drag-and-drop operation.
 
 # Instructions
 One of the tools, splitNSP, requires Python3. Install Python3, if you haven't already.
