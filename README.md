@@ -11,7 +11,9 @@ This script uses The-4n's 4NXCI and AnalogMan151's splitNSP to get the job done 
 
 # Instructions
 One of the tools, splitNSP, requires Python3. Install Python3, if you haven't already.
+
 Copy 4nxci.exe, splitNSP.py, and your keys.dat file (you're on your own here) into the same directory as the ConvertAndSplit.bat file.
+
 Then, just drag your .xci file onto ConvertAndSplit.bat, and wait.
 
 # Prerequisites
