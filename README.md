@@ -32,4 +32,5 @@ https://github.com/AnalogMan151/splitNSP
 ## If you haven't already installed Python, make sure you check the option to "Add Python 3.x to PATH" on the first screen of the installer.
 
 Otherwise, you'll get an error stating:
+
 `'python' is not recognized as an internal or external command, operable program or batch file.`
