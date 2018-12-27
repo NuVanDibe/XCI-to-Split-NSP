@@ -26,3 +26,7 @@ https://www.python.org/downloads/windows/
 https://github.com/The-4n/4NXCI
 
 https://github.com/AnalogMan151/splitNSP
+
+# Installing Python
+
+## If you haven't already installed Python, make sure you check the option to "Add Python 3.x to PATH" on the first screen of the installer.
